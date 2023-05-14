@@ -12,3 +12,46 @@
     padding-top: 71px;
     padding-bottom: 92px;
 }
+.card {
+  margin-left: 148px;
+  margin-right: 65px;
+  cursor: pointer;
+}
+.card_img {
+width: 420px;
+height: 280px;
+left: 148px;
+top: 182px;
+margin-bottom: 62px;
+}
+.card_name {
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: #B4AD9E;
+margin-bottom: 32px;
+}
+.card__title {
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+margin-bottom: 40px;
+}
+.card_text {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #626262;
+width: 420px;
+height: 76px;
+left: 148px;
+top: 652px;
+}
+
